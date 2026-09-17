@@ -1,0 +1,44 @@
+05-gitlab-ci-build.md
+  h_3cc0f112a7fe50 1-41
+06-gitlab-cd-complete.md
+  h_3cc0f112a7fe50 1-42
+07-architecture-and-gitops.md
+  h_3cc0f112a7fe50 1-48
+08-argocd-hands-on.md
+  h_3cc0f112a7fe50 1-63
+app/01-docker.md
+  h_3cc0f112a7fe50 1-48
+app/Dockerfile
+  h_3cc0f112a7fe50 1-15
+app/app.py
+  h_3cc0f112a7fe50 1-32
+app/requirements.txt
+  h_3cc0f112a7fe50 1
+helm/04-helm.md
+  h_3cc0f112a7fe50 1-23
+helm/Chart.yaml
+  h_3cc0f112a7fe50 1-6
+helm/templates/deployment.yaml
+  h_3cc0f112a7fe50 1-28
+helm/templates/service.yaml
+  h_3cc0f112a7fe50 1-12
+helm/values.yaml
+  h_3cc0f112a7fe50 1-11
+manifests/02-manual-k8s.md
+  h_3cc0f112a7fe50 1-32
+manifests/deployment.yaml
+  h_3cc0f112a7fe50 1-24
+manifests/service.yaml
+  h_3cc0f112a7fe50 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "85ec451e52ba7c2577e4c5bec6a981894d943ad8",
+  "prompts": {},
+  "humans": {
+    "h_3cc0f112a7fe50": {
+      "author": "Toka Shawky <Toka.Shawky@Fawry.com>"
+    }
+  }
+}
