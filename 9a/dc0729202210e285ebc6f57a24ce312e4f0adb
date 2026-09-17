@@ -1,0 +1,14 @@
+README.md
+  h_3cc0f112a7fe50 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9adc0729202210e285ebc6f57a24ce312e4f0adb",
+  "prompts": {},
+  "humans": {
+    "h_3cc0f112a7fe50": {
+      "author": "Toka Shawky <Toka.Shawky@Fawry.com>"
+    }
+  }
+}
